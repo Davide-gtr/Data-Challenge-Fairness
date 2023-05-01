@@ -4,6 +4,8 @@
 
 This is my work for the Data Challenge proposed by IDEMIA dealing with fairness in face recognition system.
 
+### Author : Davide Garcia Civiero
+
 ### Presentation of the challenge : face recognition
 
 #### How does modern face recognition work?
